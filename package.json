@@ -1,0 +1,14 @@
+{
+  "name": "youtube_clonee",
+  "version": "1.0.0",
+  "description": "backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Abhishek",
+  "license": "ISC"
+}
